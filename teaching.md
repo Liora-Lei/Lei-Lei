@@ -1,5 +1,6 @@
+### **Teaching Experience**
 
-### **Tutorial Instructor**
+#### **Tutorial Instructor**
 **School of Accounting and Finance, The Hong Kong Polytechnic University**
 
 - **AF4513 (Undergraduate): Corporate Social Responsibility**, Fall 2024  
@@ -14,7 +15,7 @@
 
 ---
 
-### **Teaching Assistant**
+#### **Teaching Assistant**
 **School of Accounting and Finance, The Hong Kong Polytechnic University**
 
 - **AF6306 (Ph.D.): Contemporary Issues in Empirical Finance**, Fall 2023  
