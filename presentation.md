@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "Presentations"
+title: "Presentations(* by coauthor)"
 permalink: /presentation/
 author_profile: true
 hide_meta: true
 ---
-
-### **Presentations(* by coauthor)**  
 
 - **Hawai'i Accounting Research Conference**, 2026, Hawaii, USA *(Scheduled)*  
 - **The 20th Annual Conference on Asia-Pacific Financial Markets (CAFM)**, 2025, Seoul, Korea *  
