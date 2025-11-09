@@ -4,7 +4,21 @@ title: "Lei (Liora) Lei 雷蕾"
 permalink: /
 author_profile: true
 hide_meta: true
----  
+classes: superwide
+---
+
+<!-- 自定义：主页内容加宽 + sidebar 同步调宽 -->
+<style>
+.page.superwide, .page__content.superwide {
+  max-width: 1200px !important;   /* 主内容最大宽度（默认约900px） */
+  margin: 0 auto !important;
+  padding: 0 2rem !important;
+}
+@media (min-width: 1024px) {
+  .sidebar { width: 28% !important; }     /* 侧边栏更宽，默认大约20% */
+  .page, .archive, .page__content { width: 72% !important; float: right !important; }
+}
+</style>
 
 ## Research Interests
 Municipal Finance, Healthcare Finance, Sustainable Finance,  
@@ -38,4 +52,5 @@ with *Noor Nahar Begum and Ji-Chai Lin*
 
 **The Crowding Out Effect of Local Government Debt on Firm Innovation: The Moderating Role of Private Banking**  
 with *Ji-Chai Lin*
+
 
