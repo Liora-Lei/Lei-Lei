@@ -3,7 +3,7 @@
 <!-- start custom head snippets -->
 
 <!-- ===========================================================
-     AcademPages Custom Head Section
+     AcademicPages Custom Head Section
      =========================================================== -->
 
 <!-- Support for Academicons -->
@@ -19,7 +19,7 @@
 <meta name="theme-color" content="#ffffff"/>
 
 <!-- ===========================================================
-     ✅ Custom CSS overrides — 全站加宽 + 间距优化
+     ✅ Custom CSS overrides — 全站加宽 + 间距优化 + 主页 sidebar 加宽
      =========================================================== -->
 <style>
 /* ==========================================================================
@@ -71,6 +71,31 @@
   margin: 1em auto;
 }
 
+/* -----------------------------------------------------------
+   🌟 仅主页（layout: home）——让 sidebar 稍微更宽一点
+   ----------------------------------------------------------- */
+body.layout--home .sidebar {
+  flex: 0 0 320px !important;   /* 可调：300–350px */
+  max-width: 320px !important;
+}
+
+body.layout--home .author__content {
+  max-width: 320px !important;
+}
+
+/* 让主页上 sidebar 与正文之间的间距更自然 */
+body.layout--home .sidebar__right,
+body.layout--home .sidebar__left {
+  margin-right: 2rem;
+}
+
+/* 头像适配更宽的侧栏（可选） */
+body.layout--home .author__avatar img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px; /* 可按需去掉 */
+}
+
 /* 响应式优化：在窄屏设备上恢复默认宽度 */
 @media screen and (max-width: 900px) {
   .page,
@@ -82,8 +107,13 @@
     padding-left: 1rem !important;
     padding-right: 1rem !important;
   }
+
+  /* 窄屏时 sidebar 回落为自适应宽度 */
+  body.layout--home .sidebar {
+    flex: 1 1 auto !important;
+    max-width: none !important;
+  }
 }
 </style>
 
 <!-- end custom head snippets -->
-
