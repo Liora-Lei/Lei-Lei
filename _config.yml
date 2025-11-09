@@ -220,7 +220,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching/:path/
   publications:
     output: true
     permalink: /:collection/:path/
