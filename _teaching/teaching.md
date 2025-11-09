@@ -1,14 +1,3 @@
----
-title: "Teaching Experience"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-date: 2024-12-01
-venue: "School of Accounting and Finance, The Hong Kong Polytechnic University"
-location: "Hong Kong"
----
-
-
 ### **Teaching Experience**
 
 #### **Tutorial Instructor**
