@@ -6,6 +6,17 @@ author_profile: true
 hide_meta: true
 ---
 
+<style>
+.page__content h1, 
+.page__content h2, 
+.page__content h3 {
+  margin-top: 1.5em; /* 根据Teaching页视觉调整，原值约0.5em */
+}
+.page__content {
+  margin-top: 1.2em; /* 调整正文整体上边距 */
+}
+</style>
+
 - **Hawai'i Accounting Research Conference**, 2026, Hawaii, USA *(Scheduled)*  
 - **The 20th Annual Conference on Asia-Pacific Financial Markets**, 2025, Seoul, Korea *  
 - **FMA Asia/Pacific Conference**, 2025, Taipei, Taiwan *(Scheduled)*  
