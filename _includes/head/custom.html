@@ -2,6 +2,10 @@
 
 <!-- start custom head snippets -->
 
+<!-- ===========================================================
+     AcademPages Custom Head Section
+     =========================================================== -->
+
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
@@ -14,20 +18,72 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- ✅ Custom CSS overrides -->
+<!-- ===========================================================
+     ✅ Custom CSS overrides — 全站加宽 + 间距优化
+     =========================================================== -->
 <style>
-/* 让正文更宽一点并居中 */
-.page__content, 
-.layout--single .page__inner-wrap, 
-.author__content {
-  max-width: 1000px !important;  /* 可调：900–1100px */
-  margin: 0 auto !important;
+/* ==========================================================================
+   AcademicPages / Minimal Mistakes — 全局页面加宽样式
+   ========================================================================== */
+
+/* 外层容器整体加宽并居中 */
+.page,
+.page__inner-wrap,
+.layout--single .page,
+.layout--single .page__inner-wrap,
+.layout--single .page__content {
+  max-width: 1100px !important;   /* 默认约740px，可改900–1200px */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
 }
 
-/* 调整标题与正文之间空隙 */
+/* 正文内容加宽并优化行距 */
+.page__content {
+  max-width: 1100px !important;
+  margin: 0 auto !important;
+  line-height: 1.75;
+}
+
+/* 带作者简介或 sidebar 的页面保持一致宽度 */
+.author__content,
+.sidebar,
+.page__meta {
+  max-width: 1100px !important;
+}
+
+/* 调整标题和正文间距，让页面更舒适 */
 .page__title {
-  margin-bottom: 1.5em !important;
+  margin-bottom: 1.6em !important;
+}
+
+/* 列表和段落之间的行距 */
+.page__content ul,
+.page__content p {
+  margin-bottom: 0.9em;
+}
+
+/* 表格也稍微放宽一些 */
+.page__content table {
+  width: 100%;
+  max-width: 1000px;
+  margin: 1em auto;
+}
+
+/* 响应式优化：在窄屏设备上恢复默认宽度 */
+@media screen and (max-width: 900px) {
+  .page,
+  .page__inner-wrap,
+  .layout--single .page,
+  .layout--single .page__inner-wrap,
+  .page__content {
+    max-width: 90% !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
 }
 </style>
 
 <!-- end custom head snippets -->
+
