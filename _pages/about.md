@@ -33,7 +33,7 @@ with *Jie Cao, Linjia Song, and Xintong Zhan*
 **Who Knows More? Public Firm Information Spillovers into the Municipal Bond Market Around IPOs**  
 with *Jie Cao, Stephanie Cheng, and Walid Saffar*
 
-**The Converging Dynamics of Banks’ Earnings Volatility: Implications for Bank Risk Management**  
+**How Do Earnings Volatility Dynamics Shape Bank Value?**  
 with *Noor Nahar Begum and Ji-Chai Lin*
 
 **The Crowding Out Effect of Local Government Debt on Firm Innovation: The Moderating Role of Private Banking**  
