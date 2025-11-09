@@ -6,8 +6,6 @@ author_profile: true
 hide_meta: true
 ---
 
-### **Teaching Experience**
-
 #### **Tutorial Instructor**
 **School of Accounting and Finance, The Hong Kong Polytechnic University**
 
