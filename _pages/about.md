@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Lei (Liora) Lei"
 permalink: /
 author_profile: true
 hide_meta: true
