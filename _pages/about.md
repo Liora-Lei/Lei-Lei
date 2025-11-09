@@ -17,7 +17,7 @@ Financial Accounting, Innovation Education
 
 **Supervision Team**  
 - [**Jie Cao**](https://sites.google.com/site/jiejaycao/home), Professor, The Hong Kong Polytechnic University  
-- **Xintong Zhan**, Li-Dasan Chair Professor of Finance, Fudan University  
+- [**Xintong Zhan**](https://sites.google.com/view/xintongzhan/home), Li-Dasan Chair Professor of Finance, Fudan University  
 - **Ji-Chai Lin**, Professor, National Central University  
 
 **M.S. in Finance**, University of Electronic Science and Technology of China, 2015–2018  
