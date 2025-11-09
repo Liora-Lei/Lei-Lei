@@ -28,5 +28,5 @@ hide_meta: true
 - **Renmin University**, 2025, Beijing, China *  
 - **Southern University of Science and Technology**, 2025, Shenzhen, China *  
 - **Xiamen University**, 2025, Xiamen, China *  
-- **The 21st Chinese Finance Annual Meeting**, 2025, Guangzhou, China  
+- **The 21st Chinese Finance Annual Meeting**, 2024, Guangzhou, China  
 - **Journal of Corporate Finance Special Issue Conference**, 2023, Helsinki, Finland  
