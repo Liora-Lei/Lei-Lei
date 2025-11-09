@@ -4,12 +4,15 @@ title: "Teaching"
 collection: teaching
 permalink: /teaching/
 author_profile: true
-date: 2024-10-01          
-venue: "School of Accounting and Finance, The Hong Kong Polytechnic University"
-location: "Hong Kong"
-read_time: false
-share: false
-comments: false
+
+# ↓ 新增以下几行来屏蔽顶部多余信息
+header:
+  overlay_color: "white"
+  show_overlay_excerpt: false
+  caption: ""
+  teaser: ""
+excerpt: ""   # 这行可以防止摘要被调用
+date: false   # 禁止显示默认日期（1900）
 ---
 
 ### **Teaching Experience**
