@@ -83,8 +83,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  // height: 36px;  // 仍可保留注释
+  width: 200px;     /* ← 让容器更宽一些，默认36太小 */
 
   @include breakpoint($large) {
     display: block;
@@ -93,13 +92,14 @@
   }
 
   img {
-    max-width: 175px;
-
-    // 关键修改部分 ↓↓↓
-    border-radius: 0;              // 改成0代表长方形；若想要圆角矩形改成 8px 或 12px
-    clip-path: none;               // 避免裁剪成圆形
+    max-width: 250px;    /* ← 控制头像图片的最大宽度 */
+    height: auto;        /* 自动保持比例 */
+    border-radius: 0;    /* 0 表示矩形；可改 10px 做成圆角矩形 */
+    clip-path: none;
     -webkit-clip-path: none;
-    object-fit: cover;             // 让图片裁切得更自然
+    object-fit: cover;   /* 让头像裁剪得自然 */
+    margin-top: 10px;    /* 给头像和上方内容一点距离 */
+    margin-bottom: 10px;
 
     @include breakpoint($large) {
       padding: 5px;
