@@ -1,9 +1,17 @@
+---
+layout: single
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+hide_meta: true
+---
+
 ### **Teaching Experience**
 
 #### **Tutorial Instructor**
 **School of Accounting and Finance, The Hong Kong Polytechnic University**
 
-- **AF4513 (Undergraduate): Corporate Social Responsibility**, Fall 2024  
+- **AF4513 (Undergraduate): Corporate Social Responsibility**, Fall 2024   
   - Teaching Evaluation: 4.70 / 5.00  
   - *AF Teaching Awards for Research Students (2024/25)*
 
