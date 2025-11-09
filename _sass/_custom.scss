@@ -1,0 +1,19 @@
+/* =====================================
+   Custom style overrides for Lei Lei
+   ===================================== */
+
+/* --- Make the main content area wider --- */
+.page__content {
+  max-width: 1000px;   /* default ~750px */
+  margin: 0 auto;
+}
+
+/* --- Also widen single post layout (for homepage/about) --- */
+.single .page__inner-wrap {
+  max-width: 1000px;
+}
+
+/* --- Optional: improve line height for long paper titles --- */
+.page__content p {
+  line-height: 1.6;
+}
