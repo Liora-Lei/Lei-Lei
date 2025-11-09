@@ -8,7 +8,7 @@ hide_meta: true
 
 ## Research Interests
 Municipal Finance, Healthcare Finance, Sustainable Finance,  
-Financial Accounting, Innovation Education
+Financial Accounting, Innovation
 
 ---
 
