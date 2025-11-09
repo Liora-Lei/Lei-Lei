@@ -1,20 +1,36 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate & Graduate Courses"
+permalink: /teaching/experience
+venue: "School of Accounting and Finance, The Hong Kong Polytechnic University"
+date: 2025-01-01
+location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### **Teaching Experience**
 
-Heading 1
-======
+#### **Tutorial Instructor**
+**School of Accounting and Finance, The Hong Kong Polytechnic University**
 
-Heading 2
-======
+- **AF4513 (Undergraduate): Corporate Social Responsibility**, Fall 2024  
+  - Teaching Evaluation: 4.70 / 5.00  
+  - *AF Teaching Awards for Research Students (2024/25)*
 
-Heading 3
-======
+- **AF2108 (Undergraduate): Financial Accounting**, Fall 2023  
+  - Teaching Evaluation: 4.60 / 5.00  
+  - *AF Teaching Awards for Research Students (2023/24)*
+
+- **AF3313 (Undergraduate): Business Finance**, Spring 2023  
+
+---
+
+#### **Teaching Assistant**
+**School of Accounting and Finance, The Hong Kong Polytechnic University**
+
+- **AF6306 (Ph.D.): Contemporary Issues in Empirical Finance**, Fall 2023  
+- **AF5344 (Master): Investment**, Fall 2023  
+- **AF5341 (Master): Economics for Financial Analysis**, Fall 2022  
+
+---
+
