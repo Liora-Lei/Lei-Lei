@@ -15,7 +15,7 @@ hide_meta: true
 - **Massey Sustainable Finance Conference**, 2025, Nanjing, China  
 - **FMA Annual Meeting**, 2025, Vancouver, Canada  
 - **MRS International Risk Conference**, 2025 *(Online)*  
-- **Renmin University**, 2025, Beijing, China *  
+- **Renmin University of China**, 2025, Beijing, China *  
 - **Southern University of Science and Technology**, 2025, Shenzhen, China *  
 - **Xiamen University**, 2025, Xiamen, China *  
 - **Chinese Finance Annual Meeting**, 2024, Guangzhou, China  
