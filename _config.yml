@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Lei Lei"
+title                    : "Lei (Liora) Lei"
 title_separator          : "-"
 name                     : &name "Lei (Liora) Lei"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Lei (Liora) Lei"
   pronouns         : # example: "she/her"  
-  bio              : "Finance PhD"
+  bio              : "Ph.D. Candidate in Finance"
   location         : "Hong Kong"
   employer         : "Hong Kong Polytechnic University"
   uri              : # URL
