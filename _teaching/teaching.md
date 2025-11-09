@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page        
 title: "Teaching"
 collection: teaching
 permalink: /teaching/
