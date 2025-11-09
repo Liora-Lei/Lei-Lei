@@ -78,6 +78,12 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  # ✅ 新增：兼容 Minimal Mistakes 的 links 数组（保留你现有字段不变）
+  links:
+    - label: LinkedIn
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lei-lei-bb1a5a295/"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
@@ -347,4 +353,5 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
 
