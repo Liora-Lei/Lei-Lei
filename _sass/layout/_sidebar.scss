@@ -84,8 +84,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  // height: 36px;  // 仍可保留注释
 
   @include breakpoint($large) {
     display: block;
@@ -95,7 +94,12 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+
+    // 关键修改部分 ↓↓↓
+    border-radius: 0;              // 改成0代表长方形；若想要圆角矩形改成 8px 或 12px
+    clip-path: none;               // 避免裁剪成圆形
+    -webkit-clip-path: none;
+    object-fit: cover;             // 让图片裁切得更自然
 
     @include breakpoint($large) {
       padding: 5px;
