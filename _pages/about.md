@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Lei (Liora) Lei's Homepage"
+title: "Lei (Liora) Lei"
 permalink: /
 author_profile: true
-classes: wide
----
+hide_meta: true
+---  
 
 ## Research Interests
 Municipal Finance, Healthcare Finance, Sustainable Finance,  
