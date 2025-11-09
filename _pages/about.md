@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Lei (Liora) Lei"
+title: "Lei (Liora) Lei's Homepage"
 permalink: /
 author_profile: true
-hide_meta: true
+classes: wide
 ---
 
 ## Research Interests
