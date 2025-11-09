@@ -8,7 +8,7 @@
   - *AF Teaching Awards for Research Students (2024/25)*
 
 - **AF2108 (Undergraduate): Financial Accounting**, Fall 2023  
-  - Teaching Evaluation: 4.60 / 5.00  
+  - Teaching Evaluation: 4.60 / 5.00 
   - *AF Teaching Awards for Research Students (2023/24)*
 
 - **AF3313 (Undergraduate): Business Finance**, Spring 2023  
