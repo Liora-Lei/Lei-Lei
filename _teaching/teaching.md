@@ -1,9 +1,15 @@
 ---
-layout: page        
+layout: single
 title: "Teaching"
 collection: teaching
 permalink: /teaching/
 author_profile: true
+date: 2024-10-01          
+venue: "School of Accounting and Finance, The Hong Kong Polytechnic University"
+location: "Hong Kong"
+read_time: false
+share: false
+comments: false
 ---
 
 ### **Teaching Experience**
