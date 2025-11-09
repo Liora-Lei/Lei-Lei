@@ -1,12 +1,14 @@
 ---
-title: "Teaching Experience"
-collection: teaching
-type: "Undergraduate & Graduate Courses"
-permalink: /teaching/teaching
-venue: "School of Accounting and Finance, The Hong Kong Polytechnic University"
-date: 2025-01-01
-location: "Hong Kong"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
+
+{% include base_path %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ### **Teaching Experience**
 
