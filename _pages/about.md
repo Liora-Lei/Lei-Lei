@@ -16,7 +16,7 @@ Financial Accounting, Innovation Education
 **Ph.D. in Finance**, The Hong Kong Polytechnic University, 2021–present  
 
 **Supervision Team**  
-- **Jie Cao**, Professor, The Hong Kong Polytechnic University  
+- [**Jie Cao**](https://sites.google.com/site/jiejaycao/home), Professor, The Hong Kong Polytechnic University  
 - **Xintong Zhan**, Li-Dasan Chair Professor of Finance, Fudan University  
 - **Ji-Chai Lin**, Professor, National Central University  
 
