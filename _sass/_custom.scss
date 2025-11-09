@@ -4,13 +4,13 @@
 
 /* --- Make the main content area wider --- */
 .page__content {
-  max-width: 900px;   /* default ~750px */
+  max-width: 1200px;   /* default ~750px */
   margin: 0 auto;
 }
 
 /* --- Also widen single post layout (for homepage/about) --- */
 .single .page__inner-wrap {
-  max-width: 900px;
+  max-width: 1200px;
 }
 
 /* --- Optional: improve line height for long paper titles --- */
