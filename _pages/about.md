@@ -22,7 +22,7 @@ Financial Accounting, Innovation Education
 
 **M.S. in Finance**, University of Electronic Science and Technology of China, September 2015–June 2018  
 
-**B.Ec. in Finance**, Sichuan International Studies University, September 2011–June 2015  
+**B.Ec. in Finance**, Sichuan International Studies University, September 2011–June 2015 
 
 ---
 
