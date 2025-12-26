@@ -8,9 +8,9 @@ hide_meta: true
 <div style="margin-top: 33px;"></div>
 
 - **Hawai'i Accounting Research Conference**, 2026, Hawaii, USA *(Scheduled)*  
-- **Annual Conference on Asia-Pacific Financial Markets**, 2025, Seoul, Korea *(Scheduled)* * 
-- **FMA Asia/Pacific Conference**, 2025, Taipei, Taiwan *(Scheduled)*  
-- **SFS Cavalcade Asia-Pacific**, 2025, Beijing, China *(Scheduled)*  
+- **Annual Conference on Asia-Pacific Financial Markets**, 2025, Seoul, Korea * 
+- **FMA Asia/Pacific Conference**, 2025, Taipei, Taiwan 
+- **SFS Cavalcade Asia-Pacific**, 2025, Beijing, China 
 - **Shenzhen University**, 2025, Shenzhen, China *  
 - **Massey Sustainable Finance Conference**, 2025, Nanjing, China  
 - **FMA Annual Meeting**, 2025, Vancouver, Canada  
