@@ -13,7 +13,7 @@ hide_meta: true
 - **The Chinese University of Hong Kong**, 2026, Hong Kong, China *
 - **Hawai'i Accounting Research Conference**, 2025, Hawaii, USA *
 - **Annual Conference on Asia-Pacific Financial Markets**, 2025, Seoul, Korea *
-- **Hong Kong Polytechinic University**, 2025, Hong Kong, China
+- **Hong Kong Polytechnic University**, 2025, Hong Kong, China
 - **FMA Asia/Pacific Conference**, 2025, Taipei, Taiwan 
 - **SFS Cavalcade Asia-Pacific**, 2025, Beijing, China 
 - **Shenzhen University**, 2025, Shenzhen, China *  
