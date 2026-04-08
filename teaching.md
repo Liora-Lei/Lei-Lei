@@ -9,6 +9,9 @@ hide_meta: true
 ### **Tutorial Instructor**
 **School of Accounting and Finance, The Hong Kong Polytechnic University**
 
+- **AF3313 (Undergraduate): Business Finance**, Fall 2025
+  - Teaching Evaluation: 4.60 / 5.00 
+
 - **AF4513 (Undergraduate): Corporate Social Responsibility**, Fall 2024   
   - Teaching Evaluation: 4.70 / 5.00  
   - *AF Teaching Awards for Research Students (2024/25)*
