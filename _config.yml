@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Lei (Liora) Lei | Finance"
+title                    : "Lei (Liora) Lei"
 title_separator          : "-" 
 name                     : &name "Lei (Liora) Lei"
 description              : &description "Lei Lei (Liora Lei) is a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University and is on the 2026–2027 academic job market."
