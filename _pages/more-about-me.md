@@ -20,6 +20,6 @@ hide_meta: true
 
 ## Hobbies
 
-I enjoy travel, photography, hiking, and skiing mountains.
+I enjoy travel, photography, hiking, and painting.
 
 <!-- Photographs and location captions will be added below. -->
