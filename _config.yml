@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Lei (Liora) Lei's Homepage"
+title                    : "Lei (Liora) Lei | Finance"
 title_separator          : "-" 
 name                     : &name "Lei (Liora) Lei"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Lei Lei (Liora Lei) is a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University and is on the 2026–2027 academic job market."
 url                      : "https://liora-lei.github.io"
 baseurl                  : "/Lei-Lei" 
 repository               : "liora-lei/Lei-Lei"
@@ -25,11 +25,11 @@ author:
   avatar           : "liora-profile-2026.jpg"
   name             : "Lei (Liora) Lei"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Finance"
+  bio              : "Postdoctoral Fellow in Finance"
   location         : "Hong Kong"
   employer         : "Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "lei-liora.lei@connect.polyu.hk" 
+  email            : "liora-lei.lei@polyu.edu.hk"
 
   # Academic websites
   academia         : # URL
@@ -144,9 +144,15 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Lei (Liora) Lei"
+  alternate_names:
+    - "Lei Lei"
+    - "Liora Lei"
+    - "Lei Liora Lei"
+    - "雷蕾"
+  links:
+    - "https://www.linkedin.com/in/lei-lei-bb1a5a295/"
 
 
 # Analytics
