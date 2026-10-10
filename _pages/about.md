@@ -41,5 +41,5 @@ Municipal Finance, Healthcare Finance, Sustainable Finance, Financial Accounting
 
 ## References
 
-[Prof. Jie (Jay) Cao](https://sites.google.com/site/jiejaycao/home) (PhD Supervisor) &emsp; [Prof. Xintong (Eunice) Zhan](https://sites.google.com/view/xintongzhan/home) &emsp; [Prof. Stephanie Cheng](https://sites.google.com/view/stephaniefcheng)
+[Prof. Jie (Jay) Cao](https://sites.google.com/site/jiejaycao) (PhD Supervisor) &emsp; [Prof. Xintong (Eunice) Zhan](https://sites.google.com/view/xintongzhan/home) &emsp; [Prof. Stephanie Cheng](https://sites.google.com/view/stephaniefcheng)
 {: .reference-links}
