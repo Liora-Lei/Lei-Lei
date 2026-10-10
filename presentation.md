@@ -11,6 +11,7 @@ hide_meta: true
 - **AAA GNP Midyear Conference**, 2026, New Hampshire, USA
 - **Tulane University**, 2026, New Orleans, USA
 - **The Chinese University of Hong Kong**, 2026, Hong Kong, China *
+- **Sun Yat-sen University**, 2026, Guangzhou, China *
 - **Hawai'i Accounting Research Conference**, 2025, Hawaii, USA
 - **Annual Conference on Asia-Pacific Financial Markets**, 2025, Seoul, Korea *
 - **Hong Kong Polytechnic University**, 2025, Hong Kong, China
