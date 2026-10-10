@@ -7,7 +7,7 @@ hide_meta: true
 ---
 <div style="margin-top: 33px;"></div>
 
-- **CAAA Annual Conference**, 2026, Banff, Canada *(Scheduled)*
+- **CAAA Annual Conference**, 2026, Banff, Canada
 - **AAA GNP Midyear Conference**, 2026, New Hampshire, USA
 - **Tulane University**, 2026, New Orleans, USA
 - **The Chinese University of Hong Kong**, 2026, Hong Kong, China *
