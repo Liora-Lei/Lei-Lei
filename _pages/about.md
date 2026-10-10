@@ -8,7 +8,7 @@ author_profile: true
 hide_meta: true
 ---  
 
-Welcome to my website. I am a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University and will be on the 2026–2027 academic job market.
+Welcome to my website! I am a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University and will be on the 2026–2027 academic job market.
 
 ---
 
