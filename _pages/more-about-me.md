@@ -9,12 +9,12 @@ hide_meta: true
 
 ## Skills
 
-**Programming:** Python, SAS, STATA, MS Office
+**Programming:** Python, SAS, STATA, MS Office, LaTeX
 
 **Databases:**
 
 - **WRDS:** CRSP, COMPUSTAT, Thomson Reuters, I/B/E/S, ExecuComp, KLD, RepRisk
-- **Others:** Mergent, Morningstar Direct, Bloomberg, USPTO, CMS, Refinitiv Eikon, SDC Platinum, Factiva, Wind, Raven Pack, S&P Capital IQ, CSMAR
+- **Others:** Mergent, Morningstar Direct, Bloomberg, USPTO, CMS, Refinitiv Eikon, SDC Platinum, Factiva, Wind, Raven Pack, S&P Capital IQ, CSMAR, MSRB
 
 **Languages:** English (proficient; TEM-8, IELTS 7.0, GMAT 720); Mandarin (native)
 
