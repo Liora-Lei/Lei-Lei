@@ -72,6 +72,12 @@
   hyphens: auto;
 }
 
+/* Keep reference links above the sticky sidebar's transparent hit area. */
+.page__content .reference-links {
+  position: relative;
+  z-index: 1;
+}
+
 /* Reference names use a darker blue for readability. */
 .page__content .reference-links a,
 .page__content .reference-links a:visited {
