@@ -14,7 +14,7 @@ hide_meta: true
 **Databases:**
 
 - **WRDS:** CRSP, COMPUSTAT, Thomson Reuters, I/B/E/S, ExecuComp, KLD, RepRisk
-- **Others:** Mergent, Morningstar Direct, Bloomberg, USPTO, CMS, Refinitiv Eikon, SDC Platinum, Factiva, Wind, Raven Pack, S&P Capital IQ, CSMAR, MSRB
+- **Others:** Mergent, Morningstar Direct, Bloomberg, USPTO, CMS, Refinitiv Eikon, SDC Platinum, Factiva, Wind, Raven Pack, S&P Capital IQ, CSMAR, MSRB, EDGAR, 3DLNews
 
 **Languages:** English (proficient; TEM-8, IELTS 7.0, GMAT 720); Mandarin (native)
 
