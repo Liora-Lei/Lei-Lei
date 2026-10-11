@@ -174,12 +174,6 @@
   position: relative;
   cursor: auto;
 
-  li:last-child {
-    a {
-      margin-bottom: 0;
-    }
-  }
-
   @include breakpoint($large) {
     display: block;
     width: fit-content;
@@ -255,16 +249,23 @@
 
   li {
     white-space: nowrap;
+    margin-bottom: 0.5em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 
   a {
     display: inline-block;
-    margin-bottom: 5px;
+    vertical-align: top;
+    margin-bottom: 0;
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 0;
+    padding-bottom: 0;
     color: inherit;
     font-size: $type-size-5;
+    line-height: inherit;
     text-decoration: none;
 
     &:hover {
