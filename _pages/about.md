@@ -8,7 +8,7 @@ author_profile: true
 hide_meta: true
 ---  
 
-Welcome to my website! I am Lei Lei (Liora Lei), a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University (PolyU), and will be on the 2026–2027 academic job market.
+Welcome to my website! I am Lei Lei (Liora), a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University (PolyU), and will be on the 2026–2027 academic job market.
 
 ---
 
