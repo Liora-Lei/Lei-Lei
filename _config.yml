@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Lei (Liora) Lei"
 title_separator          : "-" 
 name                     : &name "Lei (Liora) Lei"
-description              : &description "Lei Lei (Liora Lei) is a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University and is on the 2026–2027 academic job market."
+description              : &description "Lei Lei, also known as Liora Lei, is a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University (PolyU). Her research covers municipal finance, healthcare finance, sustainable finance, financial accounting, and innovation."
 url                      : "https://liora-lei.github.io"
 baseurl                  : "/Lei-Lei" 
 repository               : "liora-lei/Lei-Lei"
@@ -145,12 +145,19 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
-  name                   : "Lei (Liora) Lei"
+  name                   : "Lei Lei"
   alternate_names:
-    - "Lei Lei"
+    - "Lei (Liora) Lei"
     - "Liora Lei"
     - "Lei Liora Lei"
     - "雷蕾"
+  research_topics:
+    - "Finance"
+    - "Municipal Finance"
+    - "Healthcare Finance"
+    - "Sustainable Finance"
+    - "Financial Accounting"
+    - "Innovation"
   links:
     - "https://www.linkedin.com/in/lei-lei-bb1a5a295/"
 

@@ -92,19 +92,38 @@
   <script type="application/ld+json">
     {
       "@context" : "https://schema.org",
+      "@graph" : [
+      {% if page.url == "/" %}
+      {
+        "@type" : "ProfilePage",
+        "@id" : {{ canonical_url | append: "#profile" | jsonify }},
+        "url" : {{ canonical_url | jsonify }},
+        "name" : {{ seo_title | jsonify }},
+        "description" : {{ seo_description | jsonify }},
+        "mainEntity" : {
+          "@id" : {{ seo_url | append: "/#person" | jsonify }}
+        }
+      },
+      {% endif %}
+      {
       "@type" : {{ site.social.type | default: "Person" | jsonify }},
       "@id" : {{ seo_url | append: "/#person" | jsonify }},
       "name" : {{ site.social.name | default: site.name | jsonify }},
       "alternateName" : {{ site.social.alternate_names | jsonify }},
+      "description" : {{ site.description | jsonify }},
+      "knowsAbout" : {{ site.social.research_topics | jsonify }},
       "jobTitle" : {{ site.author.bio | jsonify }},
       "worksFor" : {
         "@type" : "CollegeOrUniversity",
-        "name" : {{ site.author.employer | jsonify }}
+        "name" : {{ site.author.employer | jsonify }},
+        "alternateName" : "PolyU"
       },
       "image" : {{ site.author.avatar | prepend: "/images/" | prepend: seo_url | jsonify }},
       "email" : {{ site.author.email | prepend: "mailto:" | jsonify }},
       "url" : {{ seo_url | jsonify }},
       "sameAs" : {{ site.social.links | jsonify }}
+      }
+      ]
     }
   </script>
 {% endif %}

@@ -1,14 +1,14 @@
 ---
 layout: single
 title: "Lei (Liora) Lei 雷蕾"
-seo_title: "Lei Lei (Liora Lei) | Finance | Hong Kong Polytechnic University"
-description: "Lei Lei (Liora Lei) is a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University and is on the 2026–2027 academic job market."
+seo_title: "Lei Lei (Liora Lei) | Finance Research | PolyU"
+description: "Lei Lei, also known as Liora Lei, is a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University (PolyU). Her research covers municipal finance, healthcare finance, sustainable finance, financial accounting, and innovation."
 permalink: /
 author_profile: true
 hide_meta: true
 ---  
 
-Welcome to my website! I am a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University and will be on the 2026–2027 academic job market.
+Welcome to my website! I am Lei Lei (Liora Lei), a Postdoctoral Fellow in Finance at Hong Kong Polytechnic University (PolyU), and will be on the 2026–2027 academic job market.
 
 ---
 
