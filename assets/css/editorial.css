@@ -47,10 +47,13 @@ html[data-theme="dark"] .site-logo img { filter:brightness(0) invert(1); }
 .contact-row i { width:20px; flex:0 0 20px; font-size:16px; line-height:1.55; text-align:center; }
 .contact-row i { color:var(--muted); }
 .contact-row p { margin:0; }
-.contact-email-content { display:flex; flex-wrap:wrap; align-items:center; gap:8px 12px; min-width:0; }
+.contact-email-content { position:relative; display:flex; flex-wrap:wrap; align-items:center; gap:8px 12px; min-width:0; }
 .contact-email-content > a { min-width:0; overflow-wrap:anywhere; }
-.editorial .copy-email { flex-shrink:0; min-height:32px; padding:4px 10px; border:1px solid var(--line); border-radius:4px; color:var(--muted); font-size:13px; line-height:1.5; white-space:nowrap; }
-.copy-email:hover { color:var(--ink); border-color:var(--ink); }
+.editorial .copy-email { position:absolute; left:100%; top:-4px; z-index:2; display:inline-flex; align-items:center; gap:6px; min-height:32px; padding:4px 8px; border:0; border-radius:4px; background:var(--paper); color:var(--muted); font-size:13px; line-height:1.5; white-space:nowrap; opacity:0; visibility:hidden; pointer-events:none; }
+.copy-email[hidden] { display:none; }
+.contact-email-content:hover .copy-email,.contact-email-content:focus-within .copy-email { opacity:1; visibility:visible; pointer-events:auto; }
+.email-copy-icon { width:15px; height:15px; flex-shrink:0; fill:none; stroke:currentColor; stroke-width:1.5; stroke-linecap:round; stroke-linejoin:round; }
+.copy-email:hover { color:var(--ink); text-decoration:underline; text-underline-offset:3px; }
 .copy-email:disabled { cursor:wait; opacity:.6; }
 .email-copy-status { flex-basis:100%; color:var(--muted); font-size:14px; }
 .email-copy-status:empty { display:none; }
@@ -137,7 +140,7 @@ html[data-theme="dark"] .site-logo img { filter:brightness(0) invert(1); }
   .site-logo { width:168px; }
   .header-actions { gap:4px; }
   .header-actions button { width:44px; height:44px; }
-  .editorial .copy-email { min-height:44px; }
+
   .section-nav { gap:15px 12px; padding:14px var(--gutter) 22px; }
   .section-nav a { font-size:11px; letter-spacing:.05em; }
   .profile-hero { grid-template-columns:1fr; grid-template-rows:auto auto auto; gap:28px; padding-top:30px; }
@@ -165,3 +168,8 @@ html[data-theme="dark"] .site-logo img { filter:brightness(0) invert(1); }
   .footer-bottom span { width:100%; }
 }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } .site-header { transition:none; } }
+
+@media(hover:none),(pointer:coarse) {
+  .editorial .copy-email { position:static; min-width:32px; min-height:44px; padding:4px; opacity:1; visibility:visible; pointer-events:auto; }
+  #email-copy-label { display:none; }
+}
