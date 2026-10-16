@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liora-lei.github.io/Lei-Lei/sitemap.xml

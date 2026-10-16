@@ -1,0 +1,16 @@
+/* Rockwell Regular experiment for this local preview. */
+@font-face {
+  font-family:'Rockwell';
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  src:url('../fonts/brand/rockwell-regular.ttf') format('truetype');
+}
+.editorial .profile-heading h1,
+.editorial .section-heading h2,
+.editorial .page-intro h1 {
+  font-family:'Rockwell',Georgia,serif;
+  font-style:normal;
+  font-weight:400;
+  font-synthesis:none;
+}

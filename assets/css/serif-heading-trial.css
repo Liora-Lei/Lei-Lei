@@ -1,0 +1,7 @@
+/* Reversible serif trial for left-side page and section headings. */
+.editorial .section-heading h2,
+.editorial .page-intro h1 {
+  font-family:'Bodoni Moda',Georgia,serif;
+  font-weight:600;
+  font-optical-sizing:auto;
+}
