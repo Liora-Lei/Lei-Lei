@@ -2,9 +2,9 @@
 @font-face { font-family:'Noto Serif SC'; font-style:normal; font-weight:600; font-display:swap; src:url('../fonts/brand/noto-serif-sc-normal-600.ttf') format('truetype'); }
 @font-face { font-family:'Bodoni Moda'; font-style:normal; font-weight:600; font-display:swap; src:url('../fonts/brand/bodoni-moda-normal-600.ttf') format('truetype'); }
 html { font-size:16px; scroll-behavior:smooth; scroll-padding-top:calc(var(--site-header-height,104px) + 12px); }
-body.editorial { --paper:#fff; --ink:#141414; --muted:#606060; --line:#dcdcdc; --gutter:clamp(20px,2.5vw,40px); --content-width:1360px; --label-width:300px; --column-gap:40px; background:var(--paper); color:var(--ink); font-family:'IBM Plex Sans',Arial,sans-serif; font-size:18px; line-height:1.55; margin:0; padding:0!important; -webkit-font-smoothing:antialiased; }
+body.editorial { --paper:#faf9f6; --ink:#242827; --muted:#606963; --line:#d6ded8; --accent:#285b57; --accent-soft:#eef3ef; --accent-line:#a1b8ad; --warm:#a45240; --gutter:clamp(20px,2.5vw,40px); --content-width:1360px; --label-width:300px; --column-gap:40px; background:var(--paper); color:var(--ink); font-family:'IBM Plex Sans',Arial,sans-serif; font-size:18px; line-height:1.55; margin:0; padding:0!important; -webkit-font-smoothing:antialiased; }
 body.editorial.home-page { --label-width:312px; --column-gap:48px; }
-html[data-theme="dark"] body.editorial { --paper:#171717; --ink:#f4f4f4; --muted:#b7b7b7; --line:#444; }
+html[data-theme="dark"] body.editorial { --paper:#18201e; --ink:#edf1ec; --muted:#b6c2bb; --line:#3a4b44; --accent:#a5d4c7; --accent-soft:#24342e; --accent-line:#668c7d; --warm:#e3a38d; }
 .editorial *, .editorial *::before, .editorial *::after { box-sizing:border-box; }
 .editorial h1,.editorial h2,.editorial h3 { color:var(--ink); font-family:inherit; font-weight:400; line-height:1.22; letter-spacing:-.015em; margin:0; }
 .editorial p { margin:0 0 1em; }
@@ -176,3 +176,36 @@ html[data-theme="dark"] .site-logo img { filter:brightness(0) invert(1); }
 
 /* Shared container: the logo, page content and footer use identical edges. */
 .editorial .site-header,.editorial .site-main,.editorial .site-footer { box-sizing:border-box; width:100%; max-width:var(--content-width); margin-left:auto; margin-right:auto; padding-left:var(--gutter); padding-right:var(--gutter); }
+
+/* Lake and woodland accents connect the academic pages to the photo gallery. */
+.editorial .profile-heading h1,
+.editorial .page-intro h1,
+.editorial .section-heading h2,
+.editorial .profile-research h2,
+.editorial .site-footer h2 { color:var(--accent); }
+.editorial .primary-nav a[aria-current="page"],
+.editorial .primary-nav a:hover,
+.editorial .primary-nav a:focus-visible { color:var(--accent); }
+.primary-nav a[aria-current="page"]::after { height:2px; background:var(--accent); }
+.editorial .header-actions { color:var(--accent); }
+.editorial a:focus-visible,.editorial button:focus-visible,.editorial summary:focus-visible { outline-color:var(--accent); }
+.profile-research { padding:18px 22px; background:var(--accent-soft); border-left:3px solid var(--accent-line); }
+.contact-row i { color:var(--accent); }
+.editorial .profile-contact a,
+.editorial .section-body a,
+.editorial .site-footer > div > a,
+.editorial .footer-bottom a,
+.editorial .gallery-view-all { color:var(--accent); }
+.editorial .profile-contact a:hover,
+.editorial .section-body a:hover,
+.editorial .site-footer a:hover,
+.editorial .gallery-view-all:hover { color:var(--warm); }
+.content-section > .section-heading::before { content:""; display:block; width:36px; height:2px; margin-bottom:16px; background:var(--accent-line); }
+.editorial .teaching-award { color:var(--warm); }
+.editorial .site-footer { background:var(--accent-soft); border-top-color:var(--accent-line); }
+.editorial .gallery-section .section-heading h2 { color:var(--accent); }
+.editorial .gallery-section > .section-heading::before { display:none; }
+@media(max-width:700px) {
+  .profile-research { padding:16px 18px; }
+  .content-section > .section-heading::before { margin-bottom:12px; }
+}
