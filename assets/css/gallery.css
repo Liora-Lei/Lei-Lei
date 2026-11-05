@@ -1,5 +1,4 @@
 /* Six curated album covers; full collections open in the lightbox. */
-.site-main.gallery-page { max-width:1360px; }
 .gallery-page .page-intro { display:block; margin-top:48px; }
 .gallery-page .gallery-intro { width:100%; max-width:none; margin:18px 0 0; }
 .gallery-page .gallery-intro,.editorial .gallery-section .section-heading h2 { font-family:inherit; color:var(--muted); font-size:18px; font-weight:400; font-style:normal; letter-spacing:0; line-height:1.65; }
