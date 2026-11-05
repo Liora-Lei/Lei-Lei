@@ -2,7 +2,7 @@
 @font-face { font-family:'Noto Serif SC'; font-style:normal; font-weight:600; font-display:swap; src:url('../fonts/brand/noto-serif-sc-normal-600.ttf') format('truetype'); }
 @font-face { font-family:'Bodoni Moda'; font-style:normal; font-weight:600; font-display:swap; src:url('../fonts/brand/bodoni-moda-normal-600.ttf') format('truetype'); }
 html { font-size:16px; scroll-behavior:smooth; scroll-padding-top:calc(var(--site-header-height,104px) + 12px); }
-body.editorial { --paper:#faf9f6; --ink:#141414; --muted:#606060; --line:#dcdcdc; --gutter:clamp(20px,2.5vw,40px); --content-width:1360px; --label-width:300px; --column-gap:40px; background:var(--paper); color:var(--ink); font-family:'IBM Plex Sans',Arial,sans-serif; font-size:18px; line-height:1.55; margin:0; padding:0!important; -webkit-font-smoothing:antialiased; }
+body.editorial { --paper:#fbf8f4; --ink:#141414; --muted:#606060; --line:#dcdcdc; --gutter:clamp(20px,2.5vw,40px); --content-width:1360px; --label-width:300px; --column-gap:40px; background:var(--paper); color:var(--ink); font-family:'IBM Plex Sans',Arial,sans-serif; font-size:18px; line-height:1.55; margin:0; padding:0!important; -webkit-font-smoothing:antialiased; }
 body.editorial.home-page { --label-width:312px; --column-gap:48px; }
 html[data-theme="dark"] body.editorial { --paper:#171717; --ink:#f4f4f4; --muted:#b7b7b7; --line:#444; }
 .editorial *, .editorial *::before, .editorial *::after { box-sizing:border-box; }
