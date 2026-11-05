@@ -26,7 +26,7 @@ Municipal Finance, Healthcare Finance, Sustainable Finance, Financial Accounting
 
 ## References
 
-[Prof. Jie (Jay) Cao](https://sites.google.com/site/jiejaycao) (PhD Supervisor) &emsp; [Prof. Xintong (Eunice) Zhan](https://sites.google.com/view/xintongzhan/home) &emsp; [Prof. Dongmei Li](https://sc.edu/study/colleges_schools/moore/directory/li_dongmei.php) &emsp; [Prof. Stephanie Cheng](https://sites.google.com/view/stephaniefcheng)
+[Prof. Jie (Jay) Cao](https://sites.google.com/site/jiejaycao) (The Hong Kong Polytechnic University) &emsp; [Prof. Xintong (Eunice) Zhan](https://sites.google.com/view/xintongzhan/home) (Fudan University) &emsp; [Prof. Dongmei Li](https://sc.edu/study/colleges_schools/moore/directory/li_dongmei.php) (University of South Carolina) &emsp; [Prof. Stephanie Cheng](https://sites.google.com/view/stephaniefcheng) (Tulane University)
 {: .reference-links}
 
 ---
