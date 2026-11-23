@@ -7,7 +7,6 @@ hide_meta: true
 ---
 <div style="margin-top: 33px;"></div>
 
-- **Fudan University**, 2026, Shanghai, China *
 - **Sun Yat-sen University**, 2026, Guangzhou, China *
 - **CAAA Annual Conference**, 2026, Banff, Canada
 - **AAA GNP Midyear Conference**, 2026, New Hampshire, USA
